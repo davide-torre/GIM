@@ -16,7 +16,7 @@ Esercizi di Grafica in movimento (2023)
 ## Esercizio 2A 
 [Forma e senso](https://davide-torre.github.io/GIM/Esercizio_2A/index.html)
 ## Esercizio 2B
-[Motion]
+[Motion]()  
 ## Esercizio 3
 [Pong]
 ## Esercizio 4
