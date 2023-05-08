@@ -2,7 +2,7 @@
 Esercizi di Grafica in movimento (2023)
 
 
-## Esercizio 1A  
+## Esercizio 1A   
 [Acceso - Spento 2](Esercizio_1A/template/rotazione_2.html)  
 [Acceso - Spento 3]
 [Aperto - Chiuso 2]
