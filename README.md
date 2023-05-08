@@ -12,7 +12,7 @@ Esercizi di Grafica in movimento (2023)
 [Spostamento 2](https://davide-torre.github.io/GIM/Esercizio_1A/spostamento_2.html) 
 [Spostamento 3](https://davide-torre.github.io/GIM/Esercizio_1A/spostamento_3.html) 
 ## Esercizio 1B 
-[Dittico](https://davide-torre.github.io/GIM/Esercizio_1B/spostamento_3.html)
+[Dittico](https://davide-torre.github.io/GIM/Esercizio_1B/indexD.html)
 ## Esercizio 2A 
 [Forma e senso](https://davide-torre.github.io/GIM/Esercizio_2A/index.html)
 ## Esercizio 2B
