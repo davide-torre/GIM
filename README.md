@@ -14,7 +14,7 @@ Esercizi di Grafica in movimento (2023)
 ## Esercizio 1B 
 [Dittico](https://davide-torre.github.io/GIM/Esercizio_1B/spostamento_3.html)
 ## Esercizio 2A 
-[Forma e senso]
+[Forma e senso](https://davide-torre.github.io/GIM/Esercizio_2A/index.html)
 ## Esercizio 2B
 [Motion]
 ## Esercizio 3
