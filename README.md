@@ -4,7 +4,7 @@ Esercizi di Grafica in movimento (2023)
 
 ## Esercizio 1A   
 [Acceso - Spento 2] (https://github.com/davide-torre/GIM/Esercizio_1A/acceso_spento_2.html) 
-[Acceso - Spento 3] (https://github.com/davide-torre/GIM/Esercizio_1A/acceso_spento_2.html)
+[Acceso - Spento 3] (https://github.com/davide-torre/GIM/Esercizio_1B/acceso_spento_2.html)
 [Aperto - Chiuso 2]
 [Aperto - Chiuso 3]
 [Rotazione 2]
