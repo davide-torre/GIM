@@ -12,13 +12,13 @@ function setup(){
 	velX = random (-4, 4)
 	velY = random (-4, 4)
 
-	background(240, 60, 0)
+	background(255, 255, 255)
 }
 
 function draw(){
 
 noStroke()
-fill (random(200, 255), random(100), random(100))
+fill (random(100), random(100), random(100))
 // fill(map(posizioneX, 0, width, 0, 255), map(posizioneY, 0, width, 0, 255), 0)
 
 ellipse(posizioneX, posizioneY, 20, 20)
