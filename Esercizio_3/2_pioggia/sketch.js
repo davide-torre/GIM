@@ -1,38 +1,41 @@
-let posizioneY
-let posizioneX
-let velX
-let velY
+var drop = []
 
-function setup(){
-	createCanvas(800, 600)
-	posizioneX = width/2
-	posizioneY = height/2 
-	velX = 3
-	velY = 3
-	background(255, 60, 0)
+function setup() {
+  createCanvas(1512, 801);
+  for(var i = 0; i < 200; i++) {
+    drop[i] = new Drop();
+}
 }
 
-function draw(){
-	noStroke()
-	//fill(map(posizioneX, 0, width, 0, 255), map(posizioneY, 0, width, 0, 255), 0)
+function draw() {
+  background(0);
+  for(var i = 0; i < 200; i++) {
+  drop[i].show();
+  drop[i].update();
+}
+}
 
-	const r = (sin(frameCount * 0.031) + 1) * 127.5
-	const g = (sin(frameCount * 0.032) + 1) * 127.5
-	const b = (sin(frameCount * 0.033) + 1) * 127.5
-	fill(r, g, b) 
-
-	const d = sin(frameCount * 0.06) * 60 + 70
-
-	ellipse(posizioneX, posizioneY, d, d)
-	//ellipse(width - posizioneX, posizioneY, d, d)
-
-	posizioneX = posizioneX + velX
-	posizioneY = posizioneY + velY
-
-	if (posizioneX >= width || posizioneX <= 0) velX = -velX
-	if (posizioneY >= height || posizioneY <= 0) velY = -velY
+function Drop() {
+  this.x = random(0, width);
+  this.y = random(0, -height);
+  
+  this.show = function() {
+    noStroke();
+    fill(255);
+    ellipse(this.x, this.y, random(1, 5), random(1, 5));   
+  }
+  this.update = function() {
+    this.speed = random(5, 10);
+    this.gravity = 2.05;
+    this.y = this.y + this.speed*this.gravity;  
+    
+    if (this.y > height) {
+      this.y = random(0, -height);
+      this.gravity = 0;
+}
+}
 }
 
 function keyPressed(){
-	if (key == 's') save("pong.png") 
+	if (key == 's') save("pioggia.png") 
 }
