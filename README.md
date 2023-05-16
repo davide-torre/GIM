@@ -7,7 +7,7 @@ Esercizi di Grafica in movimento (2023)
 [Acceso - Spento 3](https://davide-torre.github.io/GIM/Esercizio_1A/acceso_spento_3.html)  
 [Aperto - Chiuso 2](https://davide-torre.github.io/GIM/Esercizio_1A/aperto_chiuso_2.html)     
 [Aperto - Chiuso 3](https://davide-torre.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html)  
-[Rotazione 2](https://davide-torre.github.io/GIM/Esercizio_1A/rotazione_2.html)
+[Rotazione 2](https://davide-torre.github.io/GIM/Esercizio_1A/rotazione_2.html)  
 [Rotazione 3](https://davide-torre.github.io/GIM/Esercizio_1A/rotazione_3.html)   
 [Spostamento 2](https://davide-torre.github.io/GIM/Esercizio_1A/spostamento_2.html)  
 [Spostamento 3](https://davide-torre.github.io/GIM/Esercizio_1A/spostamento_3.html) 
@@ -20,7 +20,7 @@ Esercizi di Grafica in movimento (2023)
 ## Esercizio 3
 [Pong](https://davide-torre.github.io/GIM/Esercizio_3/1_pong/index.html)  
 [Pioggia](https://davide-torre.github.io/GIM/Esercizio_3/2_pioggia/index.html)  
-[Neve](https://davide-torre.github.io/GIM/Esercizio_3/3_Neve/index.html)  
+[Neve](https://davide-torre.github.io/GIM/Esercizio_3/3_neve/index.html)  
 ## Esercizio 4
 [Tempo = Denaro](https://davide-torre.github.io/GIM/Esercizio_4/index.html)  
 
