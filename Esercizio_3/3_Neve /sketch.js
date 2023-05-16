@@ -1,4 +1,4 @@
-let flakes = []; //crea array
+let flakes = []; 
 
 function setup() {
   createCanvas(windowWidth,windowHeight);
@@ -6,7 +6,7 @@ function setup() {
 
 function draw() {
   background(0);
-  if (frameCount % 10 === 0) {
+  if (frameCount % 5 === 0) {
     let flake = {
       x: random(width),
       y: -10,

@@ -6,22 +6,24 @@ let velY
 
 
 function setup(){
-	createCanvas(800, 400)
+	createCanvas(windowWidth, windowHeight)
 	posizioneX = width/2
 	posizioneY = height/2
-	velX = random (-4, 4)
-	velY = random (-4, 4)
+	velX = random (-6, 6)
+	velY = random (-6, 6)
 
-	background(255, 255, 255)
+	background(0, 0, 0)
 }
 
 function draw(){
 
-noStroke()
-fill (random(100), random(100), random(100))
+const r = (sin(frameCount * 0.031) + 1) * 127.5
+	const g = (sin(frameCount * 0.032) + 1) * 127.5
+	const b = (sin(frameCount * 0.033) + 1) * 127.5
+	fill(r, g, b) 
 // fill(map(posizioneX, 0, width, 0, 255), map(posizioneY, 0, width, 0, 255), 0)
-
-ellipse(posizioneX, posizioneY, 20, 20)
+noStroke ()
+ellipse(posizioneX, posizioneY, 500, 500)
 
 posizioneX = posizioneX + velX
 posizioneY = posizioneY + velY

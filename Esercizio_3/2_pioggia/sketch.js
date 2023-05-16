@@ -1,41 +1,28 @@
-var drop = []
-
-function setup() {
-  createCanvas(1512, 801);
-  for(var i = 0; i < 200; i++) {
-    drop[i] = new Drop();
-}
+function setup(){
+	createCanvas(windowWidth, windowHeight, WEBGL)
 }
 
-function draw() {
-  background(0);
-  for(var i = 0; i < 200; i++) {
-  drop[i].show();
-  drop[i].update();
-}
-}
+function draw(){
+	
+	background(38,37, 35)
 
-function Drop() {
-  this.x = random(0, width);
-  this.y = random(0, -height);
-  
-  this.show = function() {
-    noStroke();
-    fill(255);
-    ellipse(this.x, this.y, random(1, 5), random(1, 5));   
-  }
-  this.update = function() {
-    this.speed = random(5, 10);
-    this.gravity = 2.05;
-    this.y = this.y + this.speed*this.gravity;  
-    
-    if (this.y > height) {
-      this.y = random(0, -height);
-      this.gravity = 0;
-}
-}
-}
+	rotateX(mouseY*0.01)
+	rotateY(mouseX*0.01)
 
-function keyPressed(){
-	if (key == 's') save("pioggia.png") 
+	let lato = 500
+
+	if (mouseIsPressed) randomSeed(0)
+	
+	stroke(255)
+	noFill()
+	beginShape(LINES)
+	for(let i=0; i<100; i=i+1){
+		let lunghezza = random(20, 100)
+		let posX = random(-lato, lato)
+		let posY = random(-lato, lato)
+		let posZ = random(-lato, lato)
+		vertex(posX, posY, posZ)
+		vertex(posX, posY + lunghezza, posZ)
+	}
+	endShape()
 }
