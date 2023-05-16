@@ -18,8 +18,11 @@ Esercizi di Grafica in movimento (2023)
 ## Esercizio 2B
 [Movimento come forma e senso](https://davide-torre.github.io/GIM/Esercizio_2B/formaesenso.html) 
 ## Esercizio 3
-[Pong](https://davide-torre.github.io/GIM/Esercizio_3/1_disegno/index.html)  
+[Pong](https://davide-torre.github.io/GIM/Esercizio_3/1_pong/index.html)  
+[Pioggia](https://davide-torre.github.io/GIM/Esercizio_3/2_pioggia/index.html)  
+[Neve](https://davide-torre.github.io/GIM/Esercizio_3/3_Neve/index.html)
 ## Esercizio 4
+[Tempo = Denaro](https://davide-torre.github.io/GIM/Esercizio_3/1_disegno/index.html)
 
 
 
