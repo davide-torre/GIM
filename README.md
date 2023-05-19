@@ -1,5 +1,5 @@
 # GIM
-Esercizi di Grafica in movimento (2023)
+Esercizi di Grafica in movimento (2023)  
 Davide Torre CV1
 
 ## Esercizio 1A   
@@ -23,6 +23,6 @@ Davide Torre CV1
 [Neve](https://davide-torre.github.io/GIM/Esercizio_3/3_neve/index.html)  
 ## Esercizio 4
 [Tempo = Denaro](https://davide-torre.github.io/GIM/Esercizio_4/index.html)  
-
+Tiene traccia del tempo a disposizione per ottimizzare e massimizzare la produttività quotidiana.
 
 
