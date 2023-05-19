@@ -9,8 +9,8 @@ function setup(){
 	createCanvas(windowWidth, windowHeight)
 	posizioneX = width/2
 	posizioneY = height/2
-	velX = random (-6, 6)
-	velY = random (-6, 6)
+	velX = random (-11, 11)
+	velY = random (-11, 11)
 
 	background(0, 0, 0)
 }
