@@ -1,6 +1,6 @@
 # GIM
 Esercizi di Grafica in movimento (2023)
-
+Davide Torre CV1
 
 ## Esercizio 1A   
 [Acceso - Spento 2](https://davide-torre.github.io/GIM/Esercizio_1A/acceso_spento_2.html)   
