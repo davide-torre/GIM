@@ -20,9 +20,12 @@ Davide Torre CV1
 ## Esercizio 3
 [Pong](https://davide-torre.github.io/GIM/Esercizio_3/1_pong/index.html)  
 [Pioggia](https://davide-torre.github.io/GIM/Esercizio_3/2_pioggia/index.html)  
+[Pioggia di meteore](https://davide-torre.github.io/GIM/pioggiadimeteore/index.html)  
 [Neve](https://davide-torre.github.io/GIM/Esercizio_3/3_neve/index.html)  
 ## Esercizio 4
 [Tempo = Denaro](https://davide-torre.github.io/GIM/Esercizio_4/index.html)  
-Tieni traccia del tempo a disposizione per ottimizzare e massimizzare la produttività quotidiana.
+Tieni traccia del tempo a disposizione per ottimizzare e massimizzare la produttività quotidiana. 
+
+[Sisitema solare](https://davide-torre.github.io/GIM/Orologio/index.html)  
 
 
