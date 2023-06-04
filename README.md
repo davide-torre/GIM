@@ -24,7 +24,8 @@ Davide Torre CV1
 [Neve](https://davide-torre.github.io/GIM/Esercizio_3/3_neve/index.html)  
 ## Esercizio 4
 [Tempo = Denaro](https://davide-torre.github.io/GIM/Esercizio_4/index.html)  
-Tieni traccia del tempo a disposizione per ottimizzare e massimizzare la produttività quotidiana.   
+Tieni traccia del tempo a disposizione per ottimizzare e massimizzare la produttività quotidiana. 
+
 [Sisitema solare](https://davide-torre.github.io/GIM/Orologio/index.html)  
 
 
