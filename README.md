@@ -26,6 +26,6 @@ Davide Torre CV1
 [Tempo = Denaro](https://davide-torre.github.io/GIM/Esercizio_4/index.html)  
 Tieni traccia del tempo a disposizione per ottimizzare e massimizzare la produttività quotidiana. 
 
-[Sisitema solare](https://davide-torre.github.io/GIM/Orologio/index.html)  
-
+[Orologio spaziale](https://davide-torre.github.io/GIM/Orologio/index.html)  
+Rotazioni dei pianeti del sistema solare.
 
