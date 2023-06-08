@@ -27,5 +27,5 @@ Davide Torre CV1
 Tieni traccia del tempo a disposizione per ottimizzare e massimizzare la produttività quotidiana. 
 
 [Orologio spaziale](https://davide-torre.github.io/GIM/Orologio/index.html)  
-Rotazioni dei pianeti del sistema solare.
+Le rotazioni dei pianeti nel sistema solare.
 
